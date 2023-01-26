@@ -1,14 +1,16 @@
 # Proyecto integrador individual - MercadoLiebre - Digital House
 
-Desafío frontend - Agregando Estilos
+Desafío frontend - Diseño Adaptativo
 
 
 Previews del desafío finalizado
 
-HEADER:
+MOBILE:
 
-![image 4](https://user-images.githubusercontent.com/118026671/208585389-25aba500-1c7f-4ec4-b900-307968a6d51e.png)
+![mobile](https://user-images.githubusercontent.com/118026671/214755843-76ecf9b1-e8bd-43ea-ab5b-10ce4eea0473.svg)
 
-FOOTER:
+TABLET & DESKTOP:
 
-![image 5](https://user-images.githubusercontent.com/118026671/208579071-bb4edfce-1c11-43a5-8bc1-cab0782ca0ef.png)
+![header t d](https://user-images.githubusercontent.com/118026671/214756472-817bca00-6220-4719-95a1-ee407c9312dd.svg)
+
+![product t d](https://user-images.githubusercontent.com/118026671/214756537-238d1884-9100-45c3-865a-ec226583afa0.svg)
