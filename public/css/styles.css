@@ -55,6 +55,7 @@ header nav {
 
 header nav ul {
     margin-bottom: 15px;
+    margin-left: 10px;
 }
 
 header nav ul li a {
